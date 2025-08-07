@@ -1,0 +1,10 @@
+# Godot
+.import/
+.godot/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+
+# Build output
+web/
